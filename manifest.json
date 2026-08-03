@@ -4,8 +4,8 @@
   "snapshotCount": 81,
   "firstDate": "2026-05-15",
   "lastDate": "2026-08-03",
-  "totalRawBytes": 103514932,
-  "totalGzipBytes": 8964160,
+  "totalRawBytes": 102395222,
+  "totalGzipBytes": 8983383,
   "snapshots": [
     {
       "date": "2026-05-15",
@@ -614,127 +614,127 @@
       "date": "2026-07-21",
       "path": "anilist/2026/2026-07-21.json.gz",
       "records": 13279,
-      "rawBytes": 1295371,
-      "gzipBytes": 112278,
-      "rawSha256": "adce93b6e9576d1de6eb8bc1616e5dc1afc5c2b8c3ac6c698fbd36d0f4be395c",
-      "gzipSha256": "cd72e153dcb02ab173da4c69bcd222f06e829832edbf14a168f5f434de5e1dbf"
+      "rawBytes": 1215696,
+      "gzipBytes": 113603,
+      "rawSha256": "f36ca852cec5ec80d85e7a14a8c46bc1dcf7fea1665374d20bdcf17b49507380",
+      "gzipSha256": "2bfb6473f4bd9d5ad8097d466258df16207708af63bc7d4706771d661042eaf5"
     },
     {
       "date": "2026-07-22",
       "path": "anilist/2026/2026-07-22.json.gz",
       "records": 13285,
-      "rawBytes": 1295976,
-      "gzipBytes": 112306,
-      "rawSha256": "2e1923c02ae7efb53432115c2a141a008e1325d33b6e5c6dbeb4c7480c78069e",
-      "gzipSha256": "98fe5bd6aafc0d13e59bc6e38fd85fffe9d7a068ff6f0877a34c5104dabc2dbf"
+      "rawBytes": 1216265,
+      "gzipBytes": 113711,
+      "rawSha256": "bc35cf81fca9818ff73518daac967c1443bc608a4731e11b29c2c06f61fe2985",
+      "gzipSha256": "9d78e8c1c6968b1b349e67125f2afed00efdea3bbc464315a5b3529cc1eb6950"
     },
     {
       "date": "2026-07-23",
       "path": "anilist/2026/2026-07-23.json.gz",
       "records": 13287,
-      "rawBytes": 1296154,
-      "gzipBytes": 112268,
-      "rawSha256": "0810e16090643c409136f6e791c724048c6ba63e58e685cb2ee45748900b36f6",
-      "gzipSha256": "7a07d0e26d368c945b750e75359d7e0f0bdaa76d59f3d071a6157d838eae33dd"
+      "rawBytes": 1216431,
+      "gzipBytes": 113671,
+      "rawSha256": "ea3a0d5d017d35353255dfbaa6392dd37e7998d8bcae37eaa097feaba6139839",
+      "gzipSha256": "d13ba24e03ee49bc5f30b983726c2e400079b7beb7f41ec29ffc3b4c7dc55996"
     },
     {
       "date": "2026-07-24",
       "path": "anilist/2026/2026-07-24.json.gz",
       "records": 13294,
-      "rawBytes": 1296863,
-      "gzipBytes": 112425,
-      "rawSha256": "925c54078c1ad700039297f9460413ce333d23a4d2d4524ff9f2ec0e8c5d6989",
-      "gzipSha256": "46fbb28c43e422560127bc16bad7b9808f585f6844ebfc544e514dde1373041d"
+      "rawBytes": 1217098,
+      "gzipBytes": 113757,
+      "rawSha256": "8fdb240ecd119993da58161ad4bf8394c939a2a462c0fce63de00bf686256b9b",
+      "gzipSha256": "3092cefd675b115dd9a3787638ffb38ffb71ee4375f8bf1aa034a1014913069a"
     },
     {
       "date": "2026-07-25",
       "path": "anilist/2026/2026-07-25.json.gz",
       "records": 13306,
-      "rawBytes": 1298062,
-      "gzipBytes": 112626,
-      "rawSha256": "813769acf1c31626ce15766d236301e4462f79dd5fe84dd3ec8bc9156d152104",
-      "gzipSha256": "9f8cfffc545b46255fa70a4237e97a429ce46cb67f1e5b170ef0c1bb40eba4fd"
+      "rawBytes": 1218225,
+      "gzipBytes": 113973,
+      "rawSha256": "2eac6dc31ca3ce2913d2eda0fef6e3751a5b1c62a6f282b0fb742552430e5abc",
+      "gzipSha256": "7ac39a26906175a4b416c86f93e74ddb81bba3e15e37ec898981e9c9408b8abd"
     },
     {
       "date": "2026-07-26",
       "path": "anilist/2026/2026-07-26.json.gz",
       "records": 13315,
-      "rawBytes": 1298941,
-      "gzipBytes": 112607,
-      "rawSha256": "f139f6e95a22761891ab2750b039b4001d90a5f34269c77b96b32217adeb1dc4",
-      "gzipSha256": "c4ad463574150d8a14045368f55e167fa089bfebfaec6a1384efe372619aad3a"
+      "rawBytes": 1219050,
+      "gzipBytes": 113982,
+      "rawSha256": "bc03cd752aefffa4ce7bae7e62683cfd9002e8c29f2a83ad50ac0d453980ed80",
+      "gzipSha256": "cc44ccd521b0c99ec4d5b76e3456698780a747690331974e38518cb105e82a62"
     },
     {
       "date": "2026-07-27",
       "path": "anilist/2026/2026-07-27.json.gz",
       "records": 13318,
-      "rawBytes": 1299216,
-      "gzipBytes": 112460,
-      "rawSha256": "fac9bb2593566075958ecbea00519d9cb4033d8f29825880f365c3ccf61318ce",
-      "gzipSha256": "faeea8fe9ce60124e8f5d8b2ef130d7394441f1d084edbcfbd81b2760c8f29eb"
+      "rawBytes": 1219307,
+      "gzipBytes": 113868,
+      "rawSha256": "52a4a4800d9fccc2fb69d71f89e9c1c5cb49205b86954c02cdfe18aa63de1261",
+      "gzipSha256": "8573a594a3ab6de7535304600482bda6a7bb3011c7bdf441d88e723087b61619"
     },
     {
       "date": "2026-07-28",
       "path": "anilist/2026/2026-07-28.json.gz",
       "records": 13327,
-      "rawBytes": 1300127,
-      "gzipBytes": 112559,
-      "rawSha256": "5e1b43cc0ab9a7997f9e01a303e3c399a65fd611b96617595fca164f2502fce2",
-      "gzipSha256": "1e0338b19c208380cf6e807359a2af2e1869b1d595126b652e2d3b0096c20857"
+      "rawBytes": 1220164,
+      "gzipBytes": 113897,
+      "rawSha256": "342e41dbfcb5f93487f5bc1c9870c39c06879849cae6653e23ed4fa99ed1fd31",
+      "gzipSha256": "708ee94ca4edeb840aad087b482219af2ccfcfa0b5da42c698ba31ccf8c32de5"
     },
     {
       "date": "2026-07-29",
       "path": "anilist/2026/2026-07-29.json.gz",
       "records": 13342,
-      "rawBytes": 1301661,
-      "gzipBytes": 112670,
-      "rawSha256": "babec659389d0f2d0ffa9018c18f62ee1d5e376f187d17fdbd691a76d2381268",
-      "gzipSha256": "f17323ea7fcd0e6ed1e90b113153ca756bd8f2f4894742c313a03db5759fe9b3"
+      "rawBytes": 1221608,
+      "gzipBytes": 114035,
+      "rawSha256": "ed57ba3793538d70f37fad9947f6dac27f2aed59219313b5472184319a40ba4b",
+      "gzipSha256": "c1b9c0943e3e5868e82215d2315a0d14dc83699e984b46e998fc1989e25be665"
     },
     {
       "date": "2026-07-30",
       "path": "anilist/2026/2026-07-30.json.gz",
       "records": 13352,
-      "rawBytes": 1302642,
-      "gzipBytes": 112892,
-      "rawSha256": "a3abb5d1d6e4ef31edca018bef1e3bc931ef45b2dd9d57a932cf5508c52fbf90",
-      "gzipSha256": "1dc53d1bf014acf25cc2b872f7d61eb8fa948105bbf169a91833509f68c4ebdd"
+      "rawBytes": 1222529,
+      "gzipBytes": 114231,
+      "rawSha256": "f3d5bbf3b7c5100a71e830a75124fccc811e5ad3c63995db813b5492e6fbed41",
+      "gzipSha256": "91531c9e14eddcedc6c3e69418121d42efd8c5fd8ecc48b53301f9745e1ecc7f"
     },
     {
       "date": "2026-07-31",
       "path": "anilist/2026/2026-07-31.json.gz",
       "records": 13361,
-      "rawBytes": 1303540,
-      "gzipBytes": 112939,
-      "rawSha256": "03d071a0ff553a37d16f030c588503d60f43fbff9dc9d01095e6ef87852e007f",
-      "gzipSha256": "35fef5e673fb716421db9e0dae22224ae05c94926782aa521eb302c006ade60e"
+      "rawBytes": 1223373,
+      "gzipBytes": 114351,
+      "rawSha256": "5ce3936463f95dc015d56cc670df5debf966b04df3134ae05422bbed3afc60d4",
+      "gzipSha256": "1d08f7936827a068b64567cd3ade3b940d0c81ac521cf4ceb5b19fee71e63ac4"
     },
     {
       "date": "2026-08-01",
       "path": "anilist/2026/2026-08-01.json.gz",
       "records": 13376,
-      "rawBytes": 1305028,
-      "gzipBytes": 112963,
-      "rawSha256": "07d0c13638d389b70b4c9cd63c79ff905d60a7cf435fb8245d376acfb32848c3",
-      "gzipSha256": "29a0e62d456bfb4bd145ddf76d6d9d22b6241b4fb53b96c25f657cf3c3e1d8fc"
+      "rawBytes": 1224771,
+      "gzipBytes": 114309,
+      "rawSha256": "caeba836a1dae1f3942c6bb2635acf284324dc0423c328548d11308bbd10c08a",
+      "gzipSha256": "75e85e27786ba3545b58e9d81c5d8a928c2a4ce07d523d2e8ff980fbf6a0bacb"
     },
     {
       "date": "2026-08-02",
       "path": "anilist/2026/2026-08-02.json.gz",
       "records": 13385,
-      "rawBytes": 1305883,
-      "gzipBytes": 113007,
-      "rawSha256": "2ea42aa426afd8a7feb12825eb5b8897285d631c5244a31aac5e6b3ec1900cf4",
-      "gzipSha256": "cbb96caa24ccd63765d98eafa8852a229eb693417e25e42bce9eb543b3bcdd39"
+      "rawBytes": 1225572,
+      "gzipBytes": 114400,
+      "rawSha256": "97d50c9835d9802c534395049ea160578d596dd205ee0c1b305932499e521898",
+      "gzipSha256": "a547d77e4c0be7723e1a70852f0b919a03ae127240fc31f9cc19e6168ad5e98f"
     },
     {
       "date": "2026-08-03",
       "path": "anilist/2026/2026-08-03.json.gz",
       "records": 13386,
-      "rawBytes": 1305974,
-      "gzipBytes": 113075,
-      "rawSha256": "807a4ef2f6e2c960904e64fe1d50ba72b8144e6ea299b869a1de57db05113a07",
-      "gzipSha256": "b378bd2818bdb9915ac5a98fcc28386c6021b15569f75dcf64fc136cb54b7779"
+      "rawBytes": 1225639,
+      "gzipBytes": 114510,
+      "rawSha256": "76f029fe070c50cd10f50ca37f0ca7141ee5116e9105a0ddae8dc55bfe52b024",
+      "gzipSha256": "d5e3392117b16d252283dce682883c83346302cd8834a0ffa07d712b69f2a7e1"
     }
   ]
 }
