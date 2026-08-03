@@ -1,0 +1,740 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-03T00:00:00.000Z",
+  "snapshotCount": 81,
+  "firstDate": "2026-05-15",
+  "lastDate": "2026-08-03",
+  "totalRawBytes": 103514932,
+  "totalGzipBytes": 8964160,
+  "snapshots": [
+    {
+      "date": "2026-05-15",
+      "path": "anilist/2026/2026-05-15.json.gz",
+      "records": 12867,
+      "rawBytes": 1255250,
+      "gzipBytes": 108349,
+      "rawSha256": "eb7a9f93c55cb891ac226cdb62bf0d9b0ff3b168a88ea1463711d73bebe258f1",
+      "gzipSha256": "00d18d08c8af9d7492da543e72a2561592e4783bdaaa77820ecf5cdeb64fdc06"
+    },
+    {
+      "date": "2026-05-16",
+      "path": "anilist/2026/2026-05-16.json.gz",
+      "records": 12849,
+      "rawBytes": 1253099,
+      "gzipBytes": 108528,
+      "rawSha256": "dfd246e691499ad0298fbec38eddd666f26838f9cd6c5d8a5f3c5f3cba6a53cf",
+      "gzipSha256": "ee78985186de92ee013c02add851345bc42f481c85baa08c8f217f02a7ecb7ed"
+    },
+    {
+      "date": "2026-05-17",
+      "path": "anilist/2026/2026-05-17.json.gz",
+      "records": 12852,
+      "rawBytes": 1253393,
+      "gzipBytes": 108518,
+      "rawSha256": "3d1962a72b833aa802f82126c6aaecf9f81cf4d8bbbeee8dd6209a9f0aea5b79",
+      "gzipSha256": "52dd1719b23178b7d689077fd4d24d4b6e8be8050bb078d8e9d63358eaeeef6a"
+    },
+    {
+      "date": "2026-05-18",
+      "path": "anilist/2026/2026-05-18.json.gz",
+      "records": 12863,
+      "rawBytes": 1254514,
+      "gzipBytes": 108544,
+      "rawSha256": "190fc86efa8196d5d5ca9f7be96c042277472362d33fcaea66c171e5f6fc3794",
+      "gzipSha256": "7aadcd983b359093ad55a46499048ed0f61a4b3260ac6039a3217d692d75555c"
+    },
+    {
+      "date": "2026-05-19",
+      "path": "anilist/2026/2026-05-19.json.gz",
+      "records": 12869,
+      "rawBytes": 1255110,
+      "gzipBytes": 108566,
+      "rawSha256": "2fd44aa9b5f63e9fe4a98abb29f1aa5285d1ca32f2d769ef9a30fedde74f21ba",
+      "gzipSha256": "25cc0a91058c623fc0d8c379f16ed9dad55d2f2b1afe8ac516776b57dcbf3e1c"
+    },
+    {
+      "date": "2026-05-20",
+      "path": "anilist/2026/2026-05-20.json.gz",
+      "records": 12874,
+      "rawBytes": 1255544,
+      "gzipBytes": 108619,
+      "rawSha256": "c4e028e664886b7af61c6795ad77f7f1c91c97cf0b914e5fc3beb6d198f312ee",
+      "gzipSha256": "a1052c4a623f0a1c5af1a90dd86a85930559c96b15fa11274085d909419a56d8"
+    },
+    {
+      "date": "2026-05-21",
+      "path": "anilist/2026/2026-05-21.json.gz",
+      "records": 12876,
+      "rawBytes": 1255704,
+      "gzipBytes": 108661,
+      "rawSha256": "1fc13330fb21f297e45fd4484580808dfe792ebb1bfc587c9fd6fc7c29326b22",
+      "gzipSha256": "d7ec6ce270e7255b551a3f14d885a8ca3e735d887b989e1209cf4073a61c3349"
+    },
+    {
+      "date": "2026-05-22",
+      "path": "anilist/2026/2026-05-22.json.gz",
+      "records": 12880,
+      "rawBytes": 1256074,
+      "gzipBytes": 108756,
+      "rawSha256": "b37ada65f9b6d8d9a2bb9629361db730fc0c1f1e832b4ccd5c569de68504696b",
+      "gzipSha256": "718ff40c9f56f42be72c594b9e0bb2609e2dc43cd1db5b8a7d6c31ba28fbefec"
+    },
+    {
+      "date": "2026-05-23",
+      "path": "anilist/2026/2026-05-23.json.gz",
+      "records": 12889,
+      "rawBytes": 1256982,
+      "gzipBytes": 108819,
+      "rawSha256": "22502c7d5cb54ea180fa05459798276f2e505b1d92cda59f5955c996ae1c38ac",
+      "gzipSha256": "04b6c2b8faf2de661c27fa9bd62c76ce2ff847c9ef71417e52ae6274e92c50e6"
+    },
+    {
+      "date": "2026-05-24",
+      "path": "anilist/2026/2026-05-24.json.gz",
+      "records": 12893,
+      "rawBytes": 1257351,
+      "gzipBytes": 108917,
+      "rawSha256": "238331ba69a2dff6da5a65df99dd1b10a0641c29381572380bebb3ba8995020f",
+      "gzipSha256": "bb38f204929be5ef15557cb30d6ff10323f89dd9bf2e96e39c9882e6c5ab2030"
+    },
+    {
+      "date": "2026-05-25",
+      "path": "anilist/2026/2026-05-25.json.gz",
+      "records": 12895,
+      "rawBytes": 1257529,
+      "gzipBytes": 108923,
+      "rawSha256": "4f324f5ad6471f3e3cecfd2826d487cccedf97a0225cdf8ff611bb16edf927b2",
+      "gzipSha256": "489e590dc9dbcfa16fd305724e06276b881f6e4e7f11a20b98348760aa62a89b"
+    },
+    {
+      "date": "2026-05-26",
+      "path": "anilist/2026/2026-05-26.json.gz",
+      "records": 12899,
+      "rawBytes": 1257910,
+      "gzipBytes": 109044,
+      "rawSha256": "406c80ba2aa0d8c85e92cd0b41d22ff7c431598805b50807a1f007ea3b0c5a5c",
+      "gzipSha256": "039b0ecdb4a2413c59b8977e58f3f2a887735a9c45d846a2dde5a9c8a455e3ee"
+    },
+    {
+      "date": "2026-05-27",
+      "path": "anilist/2026/2026-05-27.json.gz",
+      "records": 12910,
+      "rawBytes": 1258992,
+      "gzipBytes": 109084,
+      "rawSha256": "771b5b855145954b2e51f4a133fa9c532a89af755f4ef0092c0fc3c6e18af9ef",
+      "gzipSha256": "4f4389ed3eab703197f020bba5e8927904a8dfaa5a44312bd6cdb3b5e173d0e9"
+    },
+    {
+      "date": "2026-05-28",
+      "path": "anilist/2026/2026-05-28.json.gz",
+      "records": 12912,
+      "rawBytes": 1259166,
+      "gzipBytes": 108970,
+      "rawSha256": "cb49f4ffce2f53cddbe06d1823010fdfecec71507f1968bf8077ab0a17191520",
+      "gzipSha256": "c405fd58719e3b815369bafa1ce77490a22835c39d275332707eb7833a5c76ff"
+    },
+    {
+      "date": "2026-05-29",
+      "path": "anilist/2026/2026-05-29.json.gz",
+      "records": 12919,
+      "rawBytes": 1259857,
+      "gzipBytes": 109028,
+      "rawSha256": "ee3bea3b152a985fffe0171a6ffe63ddf7bb77b93d678244ab07335f106f9cea",
+      "gzipSha256": "1e2fd8a6e2bb1456161d06a0073b2172cd50d2efd6855359038093fb732fef67"
+    },
+    {
+      "date": "2026-05-30",
+      "path": "anilist/2026/2026-05-30.json.gz",
+      "records": 12931,
+      "rawBytes": 1261081,
+      "gzipBytes": 109090,
+      "rawSha256": "ecd2f526c2f84fb6cc69f9b05f7b5d6c12e12b179da7ce07b43af45222be363c",
+      "gzipSha256": "d9e7a3d02899d74db7b1ce05b20805e9d15613417c8b5ae0c287cfd000b789eb"
+    },
+    {
+      "date": "2026-05-31",
+      "path": "anilist/2026/2026-05-31.json.gz",
+      "records": 12945,
+      "rawBytes": 1262464,
+      "gzipBytes": 109205,
+      "rawSha256": "a733464860e3f0b04cf2b034e4729e653a30a8d71af8c5f0016f0eca81fb0393",
+      "gzipSha256": "f114633d12ce66126243172d19766b176d58438b8b7a1c84da67fa7abfaf6301"
+    },
+    {
+      "date": "2026-06-01",
+      "path": "anilist/2026/2026-06-01.json.gz",
+      "records": 12954,
+      "rawBytes": 1263338,
+      "gzipBytes": 109319,
+      "rawSha256": "962786634e4aa20d3406c23d598f0f0e92d2199b70fadcbdec682b7e54c892ce",
+      "gzipSha256": "f323c6b81d77a054ba83e18d4a4ebc8d52404cc353e50aab61f4ed0cb3554310"
+    },
+    {
+      "date": "2026-06-02",
+      "path": "anilist/2026/2026-06-02.json.gz",
+      "records": 12954,
+      "rawBytes": 1263313,
+      "gzipBytes": 109413,
+      "rawSha256": "387d6ab05eca3a93641f13f1d0543332172ca468fea6cc6f7b0bc81121398625",
+      "gzipSha256": "074fd91b59aceabfe72ef83ce1d0e44e2ef1538060e5977b7375f4044420a610"
+    },
+    {
+      "date": "2026-06-03",
+      "path": "anilist/2026/2026-06-03.json.gz",
+      "records": 12961,
+      "rawBytes": 1263992,
+      "gzipBytes": 109477,
+      "rawSha256": "12908342ae3fc32cfeb0d15cdc7da67474e6b5ffabfa5a6c083f1d450229009c",
+      "gzipSha256": "c791dee33b65c8d99a60b49cd71588503c9f374e556cb6cd7a8d4743ebd2aca3"
+    },
+    {
+      "date": "2026-06-04",
+      "path": "anilist/2026/2026-06-04.json.gz",
+      "records": 12969,
+      "rawBytes": 1264775,
+      "gzipBytes": 109423,
+      "rawSha256": "44335c7d964cf3d01cd36d64d4948b2ff2abd73b3fdb2a383f06369ea86cb296",
+      "gzipSha256": "09046fbd10c2925e1308718773bebc7a8069d4a14baa3a8e779cff9e3d740a9d"
+    },
+    {
+      "date": "2026-06-05",
+      "path": "anilist/2026/2026-06-05.json.gz",
+      "records": 12977,
+      "rawBytes": 1265597,
+      "gzipBytes": 109519,
+      "rawSha256": "ea555e54599a7066cfd43b5283506c594d02c5702ed5a9dfdbe78559969c3282",
+      "gzipSha256": "77829dc8a7f219ce078537e025010a683556d02f86a9da36877cf3bed9ef21c3"
+    },
+    {
+      "date": "2026-06-06",
+      "path": "anilist/2026/2026-06-06.json.gz",
+      "records": 12979,
+      "rawBytes": 1265751,
+      "gzipBytes": 109612,
+      "rawSha256": "72c7b11c87f3e6e474c8304e0ee4f8a2450159af8718a1a57f5205dc28873d68",
+      "gzipSha256": "201b3ae4359a06b1ee9549273ec7b47570256692213d07345843043f9bb266ba"
+    },
+    {
+      "date": "2026-06-07",
+      "path": "anilist/2026/2026-06-07.json.gz",
+      "records": 12992,
+      "rawBytes": 1267059,
+      "gzipBytes": 109716,
+      "rawSha256": "acdbaf9642438c8104978e7a57b3ec09e0143ebb728de41db127a65b94987f8e",
+      "gzipSha256": "95470354de39aed0b4940c37fef699977f725506252e91acf010f3c2a315fbed"
+    },
+    {
+      "date": "2026-06-08",
+      "path": "anilist/2026/2026-06-08.json.gz",
+      "records": 12999,
+      "rawBytes": 1267750,
+      "gzipBytes": 109817,
+      "rawSha256": "6a58dcb37e3d65ed14c773b3239ea9896a652df6c2c4363e4716639944e88f41",
+      "gzipSha256": "10eeaf63abb77d13e4139607260deaf560f9cd9cf9414a3375ea90c78f16459e"
+    },
+    {
+      "date": "2026-06-09",
+      "path": "anilist/2026/2026-06-09.json.gz",
+      "records": 13010,
+      "rawBytes": 1268875,
+      "gzipBytes": 109932,
+      "rawSha256": "1077ec100d1e0b3be53ef055f9f1c7567cc4a445784f08f662f80ec00cb06735",
+      "gzipSha256": "15300b2b166994fb0ae5d24d70f888eddad3ad02a576498c9850f2b0b38e463c"
+    },
+    {
+      "date": "2026-06-10",
+      "path": "anilist/2026/2026-06-10.json.gz",
+      "records": 13015,
+      "rawBytes": 1269322,
+      "gzipBytes": 109905,
+      "rawSha256": "01910f0fd43df424232acae412c62add0e9a44a695980edbb3f7c8f55eca3f68",
+      "gzipSha256": "ad9aabc92fe590b76576675abd1fe45ac6b9c0c4b2698f1b2f19a5a2515fa8a1"
+    },
+    {
+      "date": "2026-06-11",
+      "path": "anilist/2026/2026-06-11.json.gz",
+      "records": 13020,
+      "rawBytes": 1269816,
+      "gzipBytes": 109960,
+      "rawSha256": "e95b2c071333f459dfb34692b92443e0d33d6c92033a539e60eff43ad89e87a5",
+      "gzipSha256": "f6c7b4e5491905f96cc893ff4c762663e07235828b8ba89be6e37e7bc85073a4"
+    },
+    {
+      "date": "2026-06-12",
+      "path": "anilist/2026/2026-06-12.json.gz",
+      "records": 13023,
+      "rawBytes": 1270119,
+      "gzipBytes": 110050,
+      "rawSha256": "26a70a9bfc35830d1090361b37c4e166df4a0eec49454241aca9859dfd8b8c47",
+      "gzipSha256": "94381cf2d451f73a816befa3282a29de97faa0ebfe0daf17132db1de54fd9456"
+    },
+    {
+      "date": "2026-06-13",
+      "path": "anilist/2026/2026-06-13.json.gz",
+      "records": 13027,
+      "rawBytes": 1270515,
+      "gzipBytes": 109960,
+      "rawSha256": "f91b71fb6601b9dc101dc3e6bb8d13434c6a4a2d7f8be754a7cdec287862c2ae",
+      "gzipSha256": "65dc001922ffd89f7312b8fe8e00ccfcf22e8108c99e23623682dfcf9decad59"
+    },
+    {
+      "date": "2026-06-14",
+      "path": "anilist/2026/2026-06-14.json.gz",
+      "records": 13040,
+      "rawBytes": 1271816,
+      "gzipBytes": 109987,
+      "rawSha256": "040a187244b4a92273ebce0196238cc6c67d01c58432b6fc5fde95f0156f5d09",
+      "gzipSha256": "d98a091e39c906c422662445a86d696777ff865ca398deded915bdb9fd107536"
+    },
+    {
+      "date": "2026-06-15",
+      "path": "anilist/2026/2026-06-15.json.gz",
+      "records": 13045,
+      "rawBytes": 1272299,
+      "gzipBytes": 109988,
+      "rawSha256": "2c85c6e6eadb1d81d0f62ec2b5cf0185162828d3b0e7779970b0444e1e678d3c",
+      "gzipSha256": "4b811788c80cefe0c08efadd3430ba9a0e805317c7ee1b0846b46fb8eaacff10"
+    },
+    {
+      "date": "2026-06-16",
+      "path": "anilist/2026/2026-06-16.json.gz",
+      "records": 13054,
+      "rawBytes": 1273216,
+      "gzipBytes": 110189,
+      "rawSha256": "9c05f440d675e888b31fce8f2a97099b8df19fe083a33c6754dca385ab5addb9",
+      "gzipSha256": "b4fc8655b4d45542c09b0c72a0eaa9df29f7b7762f8dd7f0a69770a39e774ab7"
+    },
+    {
+      "date": "2026-06-17",
+      "path": "anilist/2026/2026-06-17.json.gz",
+      "records": 13059,
+      "rawBytes": 1273705,
+      "gzipBytes": 110243,
+      "rawSha256": "51ce3a812a97888256ed50b7db3500d22cbf5b302f242c309650c4c752008e51",
+      "gzipSha256": "99544fb07ca7f31532f38e7938bde11502470367f44e0e02f6e676a135e373d2"
+    },
+    {
+      "date": "2026-06-18",
+      "path": "anilist/2026/2026-06-18.json.gz",
+      "records": 13064,
+      "rawBytes": 1274203,
+      "gzipBytes": 110354,
+      "rawSha256": "ad9423e78c42a5da2f405570c892f52582c8ac5ec7726c750cc9e025cc6907f0",
+      "gzipSha256": "7c7c332e8ac764589f479933b3ed40fd6544897608b9613244d1d28cbd1f59fc"
+    },
+    {
+      "date": "2026-06-19",
+      "path": "anilist/2026/2026-06-19.json.gz",
+      "records": 13070,
+      "rawBytes": 1274762,
+      "gzipBytes": 110521,
+      "rawSha256": "e3f66d867c17e4d7f5ccf7ecfb3f563945ed5c14ee918d9d20af0983a4486e9e",
+      "gzipSha256": "73ab9c8b31ed5921d1fc5fdf700a02e8d86eeb9c7205b095b093b9d2ef2e0ebf"
+    },
+    {
+      "date": "2026-06-20",
+      "path": "anilist/2026/2026-06-20.json.gz",
+      "records": 13074,
+      "rawBytes": 1275130,
+      "gzipBytes": 110472,
+      "rawSha256": "d286417bb49da3b18b64c37af5955b189c480b3fc90dd80e5d356384e1ec8f41",
+      "gzipSha256": "91d658d6987ff99ad45e4b15e3a3d0073e37584fcdd6d5cadf6c14e4debceb9f"
+    },
+    {
+      "date": "2026-06-21",
+      "path": "anilist/2026/2026-06-21.json.gz",
+      "records": 13086,
+      "rawBytes": 1276343,
+      "gzipBytes": 110408,
+      "rawSha256": "e7b193259a14173207636eac2d930f2855e60e1487ea1f8af23399865fc9ae58",
+      "gzipSha256": "05a02fece0ba1f1b34c4e5047c2cbbe99555fce580162c959dc4d9aa9fe18202"
+    },
+    {
+      "date": "2026-06-22",
+      "path": "anilist/2026/2026-06-22.json.gz",
+      "records": 13091,
+      "rawBytes": 1276814,
+      "gzipBytes": 110489,
+      "rawSha256": "4d02cafb3e8e9cf746ae9e0f0a6264c91ced23114ee07eee5b7e19d6ff997563",
+      "gzipSha256": "6a1ad10fd7a9c79bf2a8c3fe20d1b0553b0eb706b54ca7232ef58617a907702c"
+    },
+    {
+      "date": "2026-06-23",
+      "path": "anilist/2026/2026-06-23.json.gz",
+      "records": 13094,
+      "rawBytes": 1277089,
+      "gzipBytes": 110504,
+      "rawSha256": "d313d9455c9a869797c1569be25fc4ebec63422fd75ba4b75fafada7439bb412",
+      "gzipSha256": "a70d0b44cc6876ed4f542b0336201df95db1d270fa7962b40a680e85458d9395"
+    },
+    {
+      "date": "2026-06-24",
+      "path": "anilist/2026/2026-06-24.json.gz",
+      "records": 13099,
+      "rawBytes": 1277594,
+      "gzipBytes": 110573,
+      "rawSha256": "f3ca21bffd3a8212f37875c923ca90efab6b42c372549fb8f6f631590634ce2d",
+      "gzipSha256": "1dc96fbed52b11c893d2e333aaee1086803cae1aeb7cd6ea476db1dd912a76ea"
+    },
+    {
+      "date": "2026-06-25",
+      "path": "anilist/2026/2026-06-25.json.gz",
+      "records": 13105,
+      "rawBytes": 1278178,
+      "gzipBytes": 110687,
+      "rawSha256": "562164528b9562a698602b130ecfaa121a25c31c233f9ac35efc231224d009e5",
+      "gzipSha256": "bf8e4d873c68c9cb8be41d612e1355724885d5cc95b38983718aa2cc4a9b6e72"
+    },
+    {
+      "date": "2026-06-26",
+      "path": "anilist/2026/2026-06-26.json.gz",
+      "records": 13114,
+      "rawBytes": 1279069,
+      "gzipBytes": 110773,
+      "rawSha256": "dde4c474bfce3379a140340e1fdfa5f979de35118e6e8e07387f3fd8fc2b046b",
+      "gzipSha256": "77b0eeb5453a07f14595123ab670e841a88f7aea0b85ba8f78a185736c137abd"
+    },
+    {
+      "date": "2026-06-27",
+      "path": "anilist/2026/2026-06-27.json.gz",
+      "records": 13117,
+      "rawBytes": 1279362,
+      "gzipBytes": 110751,
+      "rawSha256": "be7d7cc4c80cf595eca40d2a783007ee7e9fb339c6a3e760ed7fd3f9f166a0af",
+      "gzipSha256": "fe9cd0aaf8e5f4ee22616e2dc33e817f79423ef6b61813b129ddfbd89605b04f"
+    },
+    {
+      "date": "2026-06-28",
+      "path": "anilist/2026/2026-06-28.json.gz",
+      "records": 13125,
+      "rawBytes": 1280149,
+      "gzipBytes": 110817,
+      "rawSha256": "e7170da33ce781e25103dc372145a05fd0f712a21d2a2b273839586f90355b25",
+      "gzipSha256": "a038c51b17d789a1934ac27e46f18cc0768ec8acff60280c8c31d09f9d2bb833"
+    },
+    {
+      "date": "2026-06-29",
+      "path": "anilist/2026/2026-06-29.json.gz",
+      "records": 13130,
+      "rawBytes": 1280656,
+      "gzipBytes": 110867,
+      "rawSha256": "b5fc61e93fa52fac0c22d6f27356c6aeba8da2d62c75d07d644d9f0910208f19",
+      "gzipSha256": "4ba056909256f5ebf08f676033ac570fa48d87bf706284c643600a6db27c3a95"
+    },
+    {
+      "date": "2026-06-30",
+      "path": "anilist/2026/2026-06-30.json.gz",
+      "records": 13141,
+      "rawBytes": 1281735,
+      "gzipBytes": 111068,
+      "rawSha256": "17b662ab0424348e71dd17a8ae59ebc504f300d1c0d31f0bb37363ec2ae2930d",
+      "gzipSha256": "5a5c2bd9064add5d2b97239a85949ed8c3a038100e7c9d1a31361805a3e58431"
+    },
+    {
+      "date": "2026-07-01",
+      "path": "anilist/2026/2026-07-01.json.gz",
+      "records": 13152,
+      "rawBytes": 1282850,
+      "gzipBytes": 111109,
+      "rawSha256": "cfcb70c8bd2cc04915b6d7624bbe1356b83d91a8eefa8c01355c7da5f38e91ed",
+      "gzipSha256": "32f003727452569eeacf9e3511bef5fd6ec8d9ef9013f631323d602c36f66a85"
+    },
+    {
+      "date": "2026-07-02",
+      "path": "anilist/2026/2026-07-02.json.gz",
+      "records": 13153,
+      "rawBytes": 1282914,
+      "gzipBytes": 111155,
+      "rawSha256": "31468237fc1a5e9e98216686971b5a5ae693808c08e24dd734816bd3dfc95c18",
+      "gzipSha256": "5c9f7b12c02717d2eb9ff328639f59e7c647a3ec59aa9c2817c1659b7023613c"
+    },
+    {
+      "date": "2026-07-03",
+      "path": "anilist/2026/2026-07-03.json.gz",
+      "records": 13162,
+      "rawBytes": 1283810,
+      "gzipBytes": 111136,
+      "rawSha256": "9fb641f2c2c3a1b219e8b353934e9c743a3ff70e53d85ae8d54d2e3598e5b560",
+      "gzipSha256": "29387163bcacf67c1fd7162ca14486745cd769ce251f334605ab3e41ccb0f590"
+    },
+    {
+      "date": "2026-07-04",
+      "path": "anilist/2026/2026-07-04.json.gz",
+      "records": 13172,
+      "rawBytes": 1284820,
+      "gzipBytes": 111295,
+      "rawSha256": "05c67635279c634c6d83b8dfda8d693fd64200f821cf7eba19aed8b16afb4d13",
+      "gzipSha256": "3f5bab7190d8c16d33f711f84515fbd26354046f4c0814bf6fc339dcba03be7f"
+    },
+    {
+      "date": "2026-07-05",
+      "path": "anilist/2026/2026-07-05.json.gz",
+      "records": 13177,
+      "rawBytes": 1285328,
+      "gzipBytes": 111260,
+      "rawSha256": "dd8495a08ec796cb21bc56fe1c978829260ce335110d6785f755ff8035f99ee7",
+      "gzipSha256": "f388a06f502f62bb7e372bf29194c3099a96103a95b1551e193044a60e97f989"
+    },
+    {
+      "date": "2026-07-06",
+      "path": "anilist/2026/2026-07-06.json.gz",
+      "records": 13177,
+      "rawBytes": 1285307,
+      "gzipBytes": 111303,
+      "rawSha256": "80831922b07be0ed2ab8e9bb918804e8fc6aec8a172eb66faa9c4baaa87ee7d3",
+      "gzipSha256": "7d27471f6082e4c48d0de147f2247e0dfaf09a24095124683a896fb3f4ddd994"
+    },
+    {
+      "date": "2026-07-07",
+      "path": "anilist/2026/2026-07-07.json.gz",
+      "records": 13180,
+      "rawBytes": 1285600,
+      "gzipBytes": 111461,
+      "rawSha256": "2fe0fd3dd84eceee3288a357c2c130af7cbd7b1b553a381230c95ddeaee8bfc2",
+      "gzipSha256": "5e5905d1f6207f56af0737049a055bf0d7dad2600e30fd44fa326f52a94aa694"
+    },
+    {
+      "date": "2026-07-08",
+      "path": "anilist/2026/2026-07-08.json.gz",
+      "records": 13194,
+      "rawBytes": 1286986,
+      "gzipBytes": 111558,
+      "rawSha256": "c0a7e48873eab953b1ca58f1d84fd5161c784a582a4853952507ff02cffed37f",
+      "gzipSha256": "257c456770ab499be5408797b37e990f5670eb557c5a9ddf8b00d452693e1faf"
+    },
+    {
+      "date": "2026-07-09",
+      "path": "anilist/2026/2026-07-09.json.gz",
+      "records": 13196,
+      "rawBytes": 1287172,
+      "gzipBytes": 111522,
+      "rawSha256": "204e895fda228a09800806f038b7e786c4675785e77f4c0c2a466e36bdaefe17",
+      "gzipSha256": "9e143b84d840ca4ae0b2c0947b87a57a7537658af549a14e274f03b4a7d2c597"
+    },
+    {
+      "date": "2026-07-10",
+      "path": "anilist/2026/2026-07-10.json.gz",
+      "records": 13201,
+      "rawBytes": 1287667,
+      "gzipBytes": 111536,
+      "rawSha256": "3f3c53153d5476bc38e95d1ff229382ed994449c829e0ee5e0ff7033481200bc",
+      "gzipSha256": "4414e7b50af10ed81643b3bc4fcb63f7b2c22ab1b00c0a8af8f7599a5dbdb2ac"
+    },
+    {
+      "date": "2026-07-11",
+      "path": "anilist/2026/2026-07-11.json.gz",
+      "records": 13212,
+      "rawBytes": 1288776,
+      "gzipBytes": 111684,
+      "rawSha256": "065b65ca91782d33f21c775d3f4b78d4271228ba36f9387c96c18ee187a773b2",
+      "gzipSha256": "701e4194920f4c1699348466f280f4359ababb1eb7ced7f648e88722df7ba527"
+    },
+    {
+      "date": "2026-07-12",
+      "path": "anilist/2026/2026-07-12.json.gz",
+      "records": 13218,
+      "rawBytes": 1289341,
+      "gzipBytes": 111658,
+      "rawSha256": "56fb722ccfe51a371ddf07330c040f42697d20fbfeef167305e5a856d4111226",
+      "gzipSha256": "bf9135200ef05341d1894d1831ca5d4aff290144316a8571c3f2b25706b91df4"
+    },
+    {
+      "date": "2026-07-13",
+      "path": "anilist/2026/2026-07-13.json.gz",
+      "records": 13222,
+      "rawBytes": 1289747,
+      "gzipBytes": 111773,
+      "rawSha256": "831314a3b0bf12759209a03bce9fc9e528ab7aa15d079275192cf1ce67159a45",
+      "gzipSha256": "6a6242a81b5f713c51837e5113768225fcda5eddc533530459a8fb520445a175"
+    },
+    {
+      "date": "2026-07-14",
+      "path": "anilist/2026/2026-07-14.json.gz",
+      "records": 13223,
+      "rawBytes": 1289823,
+      "gzipBytes": 111769,
+      "rawSha256": "705f08ae9fb882ca67ef0b68db7315cc4a460a9debd4c19a21c2858955dc42bd",
+      "gzipSha256": "859155e60fc3ba259617062f983389b8deb117c8bce05450305c77c4ad45df22"
+    },
+    {
+      "date": "2026-07-15",
+      "path": "anilist/2026/2026-07-15.json.gz",
+      "records": 13229,
+      "rawBytes": 1290440,
+      "gzipBytes": 111814,
+      "rawSha256": "492e91cfe6ed3352bfd93e8264f6167a1e759e19bce32c07750a0d5df4270344",
+      "gzipSha256": "2b5c613e499d3a27511ddd6c43f869fa7da02a2acdf15f513e34ea2114836951"
+    },
+    {
+      "date": "2026-07-16",
+      "path": "anilist/2026/2026-07-16.json.gz",
+      "records": 13238,
+      "rawBytes": 1291341,
+      "gzipBytes": 112001,
+      "rawSha256": "c6d29fcc3718db29e7eb4949969a7b2250978f197713804e64afabc669e68dbd",
+      "gzipSha256": "ca979903a6c515fd9966b29a8c00aa71c13e260b421b528ba30f33cd83f0abf4"
+    },
+    {
+      "date": "2026-07-17",
+      "path": "anilist/2026/2026-07-17.json.gz",
+      "records": 13253,
+      "rawBytes": 1292849,
+      "gzipBytes": 112065,
+      "rawSha256": "c83d2eaaa02413ece9a85f81e7862f024dd94db023e29b3abf8f59d2bba1cd89",
+      "gzipSha256": "4d4511bad7b3a98615f8a51838c41810298a6ac1424b2bd0a382f6dc83d15242"
+    },
+    {
+      "date": "2026-07-18",
+      "path": "anilist/2026/2026-07-18.json.gz",
+      "records": 13258,
+      "rawBytes": 1293290,
+      "gzipBytes": 112116,
+      "rawSha256": "35332ff97dcef17cafd5659c3409d0616b78ef517260308a77aded03e75a97b5",
+      "gzipSha256": "17a2203fdd5664040c416243a8b2d69601d75eeff0f48f646330310395b24a43"
+    },
+    {
+      "date": "2026-07-19",
+      "path": "anilist/2026/2026-07-19.json.gz",
+      "records": 13268,
+      "rawBytes": 1294300,
+      "gzipBytes": 112182,
+      "rawSha256": "9adb23fa4d91d1686bb926745bc0940d7471112108cded6b7a95df17a6c415f1",
+      "gzipSha256": "1738e40fba224ab869143ea03f9b91ce098254d26eb2c5494563b3d7d1e5f1ae"
+    },
+    {
+      "date": "2026-07-20",
+      "path": "anilist/2026/2026-07-20.json.gz",
+      "records": 13273,
+      "rawBytes": 1294771,
+      "gzipBytes": 112273,
+      "rawSha256": "d345213b8a7def62afd6c3ddbe92149f905f943bf1af5cab6f34f4bdab446456",
+      "gzipSha256": "6b7ab6805400d3d7b5967d32d26e8ecf6da1117f5c9c97f6a35f4bbe2a059f90"
+    },
+    {
+      "date": "2026-07-21",
+      "path": "anilist/2026/2026-07-21.json.gz",
+      "records": 13279,
+      "rawBytes": 1295371,
+      "gzipBytes": 112278,
+      "rawSha256": "adce93b6e9576d1de6eb8bc1616e5dc1afc5c2b8c3ac6c698fbd36d0f4be395c",
+      "gzipSha256": "cd72e153dcb02ab173da4c69bcd222f06e829832edbf14a168f5f434de5e1dbf"
+    },
+    {
+      "date": "2026-07-22",
+      "path": "anilist/2026/2026-07-22.json.gz",
+      "records": 13285,
+      "rawBytes": 1295976,
+      "gzipBytes": 112306,
+      "rawSha256": "2e1923c02ae7efb53432115c2a141a008e1325d33b6e5c6dbeb4c7480c78069e",
+      "gzipSha256": "98fe5bd6aafc0d13e59bc6e38fd85fffe9d7a068ff6f0877a34c5104dabc2dbf"
+    },
+    {
+      "date": "2026-07-23",
+      "path": "anilist/2026/2026-07-23.json.gz",
+      "records": 13287,
+      "rawBytes": 1296154,
+      "gzipBytes": 112268,
+      "rawSha256": "0810e16090643c409136f6e791c724048c6ba63e58e685cb2ee45748900b36f6",
+      "gzipSha256": "7a07d0e26d368c945b750e75359d7e0f0bdaa76d59f3d071a6157d838eae33dd"
+    },
+    {
+      "date": "2026-07-24",
+      "path": "anilist/2026/2026-07-24.json.gz",
+      "records": 13294,
+      "rawBytes": 1296863,
+      "gzipBytes": 112425,
+      "rawSha256": "925c54078c1ad700039297f9460413ce333d23a4d2d4524ff9f2ec0e8c5d6989",
+      "gzipSha256": "46fbb28c43e422560127bc16bad7b9808f585f6844ebfc544e514dde1373041d"
+    },
+    {
+      "date": "2026-07-25",
+      "path": "anilist/2026/2026-07-25.json.gz",
+      "records": 13306,
+      "rawBytes": 1298062,
+      "gzipBytes": 112626,
+      "rawSha256": "813769acf1c31626ce15766d236301e4462f79dd5fe84dd3ec8bc9156d152104",
+      "gzipSha256": "9f8cfffc545b46255fa70a4237e97a429ce46cb67f1e5b170ef0c1bb40eba4fd"
+    },
+    {
+      "date": "2026-07-26",
+      "path": "anilist/2026/2026-07-26.json.gz",
+      "records": 13315,
+      "rawBytes": 1298941,
+      "gzipBytes": 112607,
+      "rawSha256": "f139f6e95a22761891ab2750b039b4001d90a5f34269c77b96b32217adeb1dc4",
+      "gzipSha256": "c4ad463574150d8a14045368f55e167fa089bfebfaec6a1384efe372619aad3a"
+    },
+    {
+      "date": "2026-07-27",
+      "path": "anilist/2026/2026-07-27.json.gz",
+      "records": 13318,
+      "rawBytes": 1299216,
+      "gzipBytes": 112460,
+      "rawSha256": "fac9bb2593566075958ecbea00519d9cb4033d8f29825880f365c3ccf61318ce",
+      "gzipSha256": "faeea8fe9ce60124e8f5d8b2ef130d7394441f1d084edbcfbd81b2760c8f29eb"
+    },
+    {
+      "date": "2026-07-28",
+      "path": "anilist/2026/2026-07-28.json.gz",
+      "records": 13327,
+      "rawBytes": 1300127,
+      "gzipBytes": 112559,
+      "rawSha256": "5e1b43cc0ab9a7997f9e01a303e3c399a65fd611b96617595fca164f2502fce2",
+      "gzipSha256": "1e0338b19c208380cf6e807359a2af2e1869b1d595126b652e2d3b0096c20857"
+    },
+    {
+      "date": "2026-07-29",
+      "path": "anilist/2026/2026-07-29.json.gz",
+      "records": 13342,
+      "rawBytes": 1301661,
+      "gzipBytes": 112670,
+      "rawSha256": "babec659389d0f2d0ffa9018c18f62ee1d5e376f187d17fdbd691a76d2381268",
+      "gzipSha256": "f17323ea7fcd0e6ed1e90b113153ca756bd8f2f4894742c313a03db5759fe9b3"
+    },
+    {
+      "date": "2026-07-30",
+      "path": "anilist/2026/2026-07-30.json.gz",
+      "records": 13352,
+      "rawBytes": 1302642,
+      "gzipBytes": 112892,
+      "rawSha256": "a3abb5d1d6e4ef31edca018bef1e3bc931ef45b2dd9d57a932cf5508c52fbf90",
+      "gzipSha256": "1dc53d1bf014acf25cc2b872f7d61eb8fa948105bbf169a91833509f68c4ebdd"
+    },
+    {
+      "date": "2026-07-31",
+      "path": "anilist/2026/2026-07-31.json.gz",
+      "records": 13361,
+      "rawBytes": 1303540,
+      "gzipBytes": 112939,
+      "rawSha256": "03d071a0ff553a37d16f030c588503d60f43fbff9dc9d01095e6ef87852e007f",
+      "gzipSha256": "35fef5e673fb716421db9e0dae22224ae05c94926782aa521eb302c006ade60e"
+    },
+    {
+      "date": "2026-08-01",
+      "path": "anilist/2026/2026-08-01.json.gz",
+      "records": 13376,
+      "rawBytes": 1305028,
+      "gzipBytes": 112963,
+      "rawSha256": "07d0c13638d389b70b4c9cd63c79ff905d60a7cf435fb8245d376acfb32848c3",
+      "gzipSha256": "29a0e62d456bfb4bd145ddf76d6d9d22b6241b4fb53b96c25f657cf3c3e1d8fc"
+    },
+    {
+      "date": "2026-08-02",
+      "path": "anilist/2026/2026-08-02.json.gz",
+      "records": 13385,
+      "rawBytes": 1305883,
+      "gzipBytes": 113007,
+      "rawSha256": "2ea42aa426afd8a7feb12825eb5b8897285d631c5244a31aac5e6b3ec1900cf4",
+      "gzipSha256": "cbb96caa24ccd63765d98eafa8852a229eb693417e25e42bce9eb543b3bcdd39"
+    },
+    {
+      "date": "2026-08-03",
+      "path": "anilist/2026/2026-08-03.json.gz",
+      "records": 13386,
+      "rawBytes": 1305974,
+      "gzipBytes": 113075,
+      "rawSha256": "807a4ef2f6e2c960904e64fe1d50ba72b8144e6ea299b869a1de57db05113a07",
+      "gzipSha256": "b378bd2818bdb9915ac5a98fcc28386c6021b15569f75dcf64fc136cb54b7779"
+    }
+  ]
+}
