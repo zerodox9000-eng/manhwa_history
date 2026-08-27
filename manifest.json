@@ -4,8 +4,8 @@
   "snapshotCount": 105,
   "firstDate": "2026-05-15",
   "lastDate": "2026-08-27",
-  "totalRawBytes": 132029682,
-  "totalGzipBytes": 11749282,
+  "totalRawBytes": 132030050,
+  "totalGzipBytes": 11749418,
   "snapshots": [
     {
       "date": "2026-05-15",
@@ -946,11 +946,11 @@
     {
       "date": "2026-08-27",
       "path": "anilist/2026/2026-08-27.json.gz",
-      "records": 13576,
-      "rawBytes": 1243437,
-      "gzipBytes": 116116,
-      "rawSha256": "fcf1f35f94323d45b4105e996d9541714f6657ac3992bb818b0820b90492181a",
-      "gzipSha256": "6a2728b93373b584851e49c661f82477ed90747a0643d04446cb555a846ae1ca"
+      "records": 13580,
+      "rawBytes": 1243805,
+      "gzipBytes": 116252,
+      "rawSha256": "1ff396880394950f2b07b9ea0172f47c2f3e84f7280dc2446aac093d489193a3",
+      "gzipSha256": "2b4c734d2589068125aabedda635b1174dd489eeec2878942980276d91f79fe4"
     }
   ]
 }
