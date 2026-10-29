@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T00:00:00.000Z",
-  "snapshotCount": 167,
+  "generatedAt": "2026-10-29T00:00:00.000Z",
+  "snapshotCount": 168,
   "firstDate": "2026-05-15",
-  "lastDate": "2026-10-28",
-  "totalRawBytes": 211206184,
-  "totalGzipBytes": 19138015,
+  "lastDate": "2026-10-29",
+  "totalRawBytes": 212516512,
+  "totalGzipBytes": 19260162,
   "snapshots": [
     {
       "date": "2026-05-15",
@@ -1509,6 +1509,15 @@
       "gzipBytes": 122052,
       "rawSha256": "b5c83d7bd8642a2236b6504ed1a3c8bcb75d601489d30faf4fc5e2d1be5ec2d5",
       "gzipSha256": "359dc5e176e7f26344cfda8cf6321ba3c0a49f0be206c780a629a3926f0f9b52"
+    },
+    {
+      "date": "2026-10-29",
+      "path": "anilist/2026/2026-10-29.json.gz",
+      "records": 14298,
+      "rawBytes": 1310328,
+      "gzipBytes": 122147,
+      "rawSha256": "c6b358c6e49ae7e590f46117a3293c2a58d6533c4c481e87efc648369186ccad",
+      "gzipSha256": "82bb65d1f568cf3d19016be53d78dc4a14829e4dead2f47538a603bc9a24075c"
     }
   ]
 }
